@@ -4,7 +4,7 @@ Static website for APZEM's industrial mist collection offering. The storefront-s
 
 ## Preview locally
 
-Open `index.html` in a browser. The page uses responsive styling in `styles.css`, interactions in `script.js`, CSS equipment illustrations, and the APZEM logo in `assets/`.
+Open `index.html` in a browser. The page uses responsive styling in `styles.css`, interactions in `script.js`, and the APZEM logo in `assets/`.
 
 ## Domain
 
