@@ -6,9 +6,13 @@ Static website for APZEM's industrial mist collection offering. The storefront-s
 
 Open `index.html` in a browser. The page uses responsive styling in `styles.css`, interactions in `script.js`, and the APZEM logo in `assets/`.
 
+## Images
+
+Photos in `assets/images/` come from Wikimedia Commons (CC0, public domain, CC BY and CC BY-SA). Credits are listed in the page footer; keep them if you swap or add photos.
+
 ## Domain
 
-The intended custom domain is `mistcollector.in`. GitHub Pages and DNS must be configured for the domain before it will serve this site publicly.
+The intended custom domain is `www.mistcollector.in`. GitHub Pages and DNS must be configured for the domain before it will serve this site publicly.
 
 ## Contact
 
